@@ -43,16 +43,13 @@
 <br><br>
 
 # ACHIEVEMENTS:
-* 🥇 Representative of Modality #53 AWS Cloud Computing - For the State of São Paulo in 2022 - Shanghai ☁️ Edition
-* 🥇 Medal of 🥈 the Knowledge Olympiad - SENAI :closed_book:
-* 🥇 Google Professional Cloud Architect :cloud:
-* 🥇 Google Associate Cloud Engineer :cloud:
-* 🥇 AWS Certified Cloud Practitioner :cloud:
-* 🏅 AWS Graduate Certification :cloud: 
-* 🏅 Linux Essentials Certification :penguin: 
-* 🏅 Linux Unhatched Certification :penguin: 
-* 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
-* 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
+* 🥇 AWS Academy Graduate - AWS Academy Cloud Foundations :cloud:
+* 🏅 Microsoft Certified: Azure AI Fundamentals :cloud: 
+* 🏅 Microsoft 365 Certified: Fundamentals :cloud: 
+* 🏅 Microsoft Certified: Azure Data Fundamentals :cloud:
+* 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals :cloud:
+* 🏅 Microsoft Certified: Azure Fundamentals :cloud:
+* 🏅 Microsoft Certified: Power Platform Fundamentals :cloud:
 
 # Other certificates:
 
