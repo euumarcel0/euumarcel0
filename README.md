@@ -30,7 +30,7 @@
     <br>
     <div align="center">
         <h2>INTERNATIONAL CERTIFICATES</h2><br>
-        <img src="[AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)" width="100" hspace="10">
+        <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100">
         <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100">
