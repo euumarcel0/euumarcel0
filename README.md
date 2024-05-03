@@ -1,15 +1,101 @@
+<br><br><br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euumarcel0&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euumarcel0&layout=compact&theme=dracula"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Procurando+um+novo+membro%3F;Saiba+que+eu+posso+te+ajudar!;Dê+uma+olhadinha+abaixo+%F0%9F%98%89%3A](https://readme-typing-svg.herokuapp.com/?font=Share+Tech&weight=100&size=24&duration=2500&pause=600&color=00F716&center=true&width=500&lines=Looking+for+a+new+member%3F;Know+that+I+can+help!;Take+a+look+bellow+%F0%9F%98%89%3A)" alt="Typing SVG" /></a>
 </div>
-<div align="center" style="display: inline_block">
-<h2>Certificações 🏆</h2>
-<img width="70" height="70"  src="https://images.credly.com/size/220x220/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
-<img width="70" height="70"  src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"/> 
+<br><br><br>
+
+<div align="center">
+    <h2>SKILLS</h2><br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=azure">
+        <img src="https://skillicons.dev/icons?i=docker">
+        <img src="https://skillicons.dev/icons?i=github">
+        <img src="https://skillicons.dev/icons?i=kali">
+        <img src="https://skillicons.dev/icons?i=linux">
+        <img src="https://skillicons.dev/icons?i=postman">
+        <img src="https://skillicons.dev/icons?i=powershell">
+        <img src="https://skillicons.dev/icons?i=py">
+        <img src="https://skillicons.dev/icons?i=terraform">
+        <img src="https://skillicons.dev/icons?i=ubuntu">
+        <img src="https://skillicons.dev/icons?i=vscode">
+        <img src="https://skillicons.dev/icons?i=windows">
+        <img src="https://skillicons.dev/icons?i=git">
+        <img src="https://skillicons.dev/icons?i=nginx">
+        <img src="https://skillicons.dev/icons?i=flask">
+        <img src="https://skillicons.dev/icons?i=python">
+        <img src="https://skillicons.dev/icons?i=ansible">
+        <div align="center">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+        <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
+        <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+        <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+        <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
+        </div>
+    </div>
+    <br>
+    <div align="center">
+        <h2>INTERNATIONAL CERTIFICATES</h2><br>
+        <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="100" hspace="10">
+        <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100">
+        <img src="https://images.credly.com/size/680x680/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="100" hspace="10">
+        <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100">
+       <div align="center">
+          <img src="https://cdn.qwiklabs.com/F7DHV3%2F3IupOJ0U9U6F2yUFut9r02Yi1%2BoeBrHXcCdw%3D" width="120">
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
+       </div>
+    </div>
+</div>
+<br><br>
+
+# ACHIEVEMENTS:
+* 🥇 Representative of Modality #53 AWS Cloud Computing - For the State of São Paulo in 2022 - Shanghai ☁️ Edition
+* 🥇 Medal of 🥈 the Knowledge Olympiad - SENAI :closed_book:
+* 🥇 Google Professional Cloud Architect :cloud:
+* 🥇 Google Associate Cloud Engineer :cloud:
+* 🥇 AWS Certified Cloud Practitioner :cloud:
+* 🏅 AWS Graduate Certification :cloud: 
+* 🏅 Linux Essentials Certification :penguin: 
+* 🏅 Linux Unhatched Certification :penguin: 
+* 🏅 Cisco Introduction to Networks Certification :large_blue_circle: 
+* 🏅 Cisco Packet Tracer Certification :large_blue_circle: 
+
+# Other certificates:
+
+* 🏅 Professional Google Cloud Architect - GCP ✅
+* 🏅 Associate Google Cloud Engineer - GCP ✅
+* 🏅 AWS Cloud Practitioner - AWS ✅
+* 🏅 Amazon ECS & Fargate - Udemy ✅
+* 🏅 Amazon EKS Kubernetes - Udemy ✅
+* 🏅 Terraform on AWS - IaC DevOps - Udemy ✅
+* 🏅 Docker - Udemy ✅
+* 🏅 Google Cloud - Udemy ✅ 
+
+<br><br>
+
+<div align="center">
+<h2>ACCESS MY RESUME</h2>
+<a href="https://drive.google.com/file/d/1BVoyjVcuToYgWOX-1VWa65rqnuq-11Ik/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
+</div>
+
+<br><br>
+<div align="center">
+    <h2>CONTACT</h2>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/marcelo-mesquita-941843267/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" hspace="0" vspace="15"></a>
+    </p>
+    <p align="center">
+    Cloud Computing & DevOps <br>
+    by: Marcelo Mesquita
+    </p>
+</div>
+
+
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=dark"> <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=cl0uD-C1SC0">
 </div>
