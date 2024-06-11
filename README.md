@@ -38,6 +38,7 @@
        <div align="center">
           <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">
           <img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="100">
+          <img src="https://cdn.qwiklabs.com/HdmJQ4UhnCwr2zBUYBYJuQspfHMm7qNY2W%2FM0GNE16E%3D" width="100">
        </div>
     </div>
 </div>
