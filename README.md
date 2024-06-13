@@ -53,6 +53,7 @@
 * 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals :cloud:
 * 🏅 Microsoft Certified: Azure Fundamentals :cloud:
 * 🏅 Microsoft Certified: Power Platform Fundamentals :cloud:
+* 🏅 Implement Load Balancing on Compute Engine Skill Badge :cloud:
 
 <br><br>
 
