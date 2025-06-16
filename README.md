@@ -50,6 +50,15 @@
           <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100" hspace="10">
           <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="100" hspace="10">
        </div>
+      <div align="center">
+          <img src="https://hermes.dio.me/certificates/cover/QELEKZXF.jpg" width="100" hspace="10">
+          <img src="https://hermes.dio.me/certificates/cover/HYSYM1NY.jpg" width="100" hspace="10">
+          <img src="https://hermes.dio.me/certificates/cover/WNKPPF4C.jpg" width="100" hspace="10">
+         <img src="https://hermes.dio.me/certificates/cover/1PJD3V6D.jpg" width="100" hspace="10">
+         <img src="https://hermes.dio.me/certificates/cover/OQIFUDQ0.jpg" width="100" hspace="10">
+         <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
+         <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
+       </div>
     </div>
 </div>
 <br><br>
@@ -72,6 +81,13 @@
 * 🏅 Set Up an App Dev Environment on Google Cloud Skill Badge :cloud:
 * 🥇 AWS Academy Graduate - AWS Academy Cloud Foundations :cloud:
 * 🥇 AWS Academy Graduate - AWS Academy Cloud Operations :cloud:
+* 🥇 Configurando o Controle de Acesso Baseado em Função :cloud:
+* 🥇 Administração de Identidade :cloud:
+* 🥇 Configurando Assinatura do Azure :cloud:
+* 🥇 Configurando Contas de Usuário e de Grupo :cloud:
+* 🥇 Configurando o Azure Policy :cloud:
+* 🥇 Configurando o Microsoft Entra ID :cloud:
+* 🥇 introdução ao Azure Administrator Certification (AZ-104) com Microsoft :cloud:
 
 <br><br>
 
