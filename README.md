@@ -1,4 +1,4 @@
-<br><br><br>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b7e02c4c-5096-4f6a-bb82-a99bc3c30e5f" /><br><br><br>
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=300&lines=Welcome;Looking+for+something+new%3F;I+can+help+you+%3F;Analyze+well;Let's+start+the+Projects!" alt="Typing SVG" /></a>
 </div>
@@ -58,7 +58,15 @@
          <img src="https://hermes.dio.me/certificates/cover/1PJD3V6D.jpg" width="100" hspace="10">
          <img src="https://hermes.dio.me/certificates/cover/OQIFUDQ0.jpg" width="100" hspace="10">
          <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
-         <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
+       </div>
+          <div align="center">
+          <img src="https://images.credly.com/images/41e4ea80-7650-41a6-b741-b5f4a7700925/blob" width="100" hspace="10">
+          <img src="https://images.credly.com/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" width="100" hspace="10">
+      </div>
+          <div align="center">
+          <img src="https://images.credly.com/images/d5fb69a6-122b-4345-a046-a6ddab8896e8/blob" width="100" hspace="10">
+         <img src="https://images.credly.com/images/2e57045b-6d0e-4d03-b33e-80d8ab70c1f6/blob" width="100" hspace="10">
+         <img src="https://images.credly.com/images/47078d91-9a87-4283-8c89-e45f2186a95b/image.png" width="100" hspace="10">
        </div>
     </div>
 </div>
@@ -101,7 +109,7 @@
 
 <div align="center">
 <h2>ACCESS MY RESUME</h2>
-<a href="https://drive.google.com/file/d/18iOZrBWp8H_-fNQM22fds1BNo3Mly54c/view"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
+<a href="https://drive.google.com/file/d/1LMnu6hq4pgsYPQsQB_NEG1rKw-CsMVWz/view?usp=drive_link"><img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="80"></a>
 </div>
 
 <br><br>
