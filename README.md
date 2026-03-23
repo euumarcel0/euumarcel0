@@ -58,13 +58,13 @@
          <img src="https://hermes.dio.me/certificates/cover/1PJD3V6D.jpg" width="100" hspace="10">
          <img src="https://hermes.dio.me/certificates/cover/OQIFUDQ0.jpg" width="100" hspace="10">
          <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
-       </div>
-          <div align="center">
-          <img src="https://images.credly.com/images/41e4ea80-7650-41a6-b741-b5f4a7700925/blob" width="100" hspace="10">
-          <img src="https://images.credly.com/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" width="100" hspace="10">
       </div>
-          <div align="center">
-          <img src="https://images.credly.com/images/d5fb69a6-122b-4345-a046-a6ddab8896e8/blob" width="100" hspace="10">
+      <div align="center">
+         <img src="https://images.credly.com/images/41e4ea80-7650-41a6-b741-b5f4a7700925/blob" width="100" hspace="10">
+         <img src="https://images.credly.com/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" width="100" hspace="10">
+      </div>
+      <div align="center">
+         <img src="https://images.credly.com/images/d5fb69a6-122b-4345-a046-a6ddab8896e8/blob" width="100" hspace="10">
          <img src="https://images.credly.com/images/2e57045b-6d0e-4d03-b33e-80d8ab70c1f6/blob" width="100" hspace="10">
          <img src="https://images.credly.com/images/47078d91-9a87-4283-8c89-e45f2186a95b/image.png" width="100" hspace="10">
        </div>
