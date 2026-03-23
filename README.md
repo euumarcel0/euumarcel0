@@ -64,6 +64,13 @@
 <br><br>
 
 # ACHIEVEMENTS:
+* 🥇 HashiCorp Certified: Terraform Associate 003 - Hands-On Labs
+* 🥇 RCCS - Rubrik Certified Cloud Specialist
+* 🥇 RCRS - Rubrik Cyber Resiliency Specialist
+* 🥇 Rubrik Certified System Administrator (RCSA)
+* 🥇 Networking Academy Learn-A-Thon 2024
+* 🥇 Oracle Cloud Infrastructure 2025 Certified Foundations Associate :cloud:
+* 🥇 NetApp AI Solutions Associate Accreditation
 * 🏅 Microsoft Certified: Azure AI Fundamentals :cloud: 
 * 🏅 Microsoft 365 Certified: Fundamentals :cloud: 
 * 🏅 Microsoft Certified: Azure Data Fundamentals :cloud:
