@@ -5,7 +5,8 @@
 <br><br><br>
 
 <div align="center">
-    <h2>SKILLS</h2><br>
+    <h2>SKILLS</h2>
+    <br>
     <div>
         <img src="https://skillicons.dev/icons?i=azure">
         <img src="https://skillicons.dev/icons?i=docker">
@@ -24,52 +25,52 @@
         <img src="https://skillicons.dev/icons?i=flask">
         <img src="https://skillicons.dev/icons?i=python">
         <img src="https://skillicons.dev/icons?i=ansible">
-       <img src="https://skillicons.dev/icons?i=NetApp">
-        <div align="center">
-        </div>
     </div>
     <br>
+    <h2>CERTIFICATES</h2>
+    <br>
     <div align="center">
-        <h2>CERTIFICATES</h2><br>
         <img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100">
         <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100">
-       <img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">
-       <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">
-          <img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="100">
-       <div align="center">
-          <img src="https://images.credly.com/size/680x680/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="100" height="91">
-          <img src="https://images.credly.com/size/340x340/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="100" height="91">
-          <img src="https://images.credly.com/size/340x340/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="100" height="91">
-          <img src="https://images.credly.com/size/340x340/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="100" height="91">
-          <img src="https://cdn.qwiklabs.com/HdmJQ4UhnCwr2zBUYBYJuQspfHMm7qNY2W%2FM0GNE16E%3D" width="100">
-          <img src="https://cdn.qwiklabs.com/Q4rVlxJ0wQuMfHZqcVJ4syEhU3G51bvU%2BxpjlqO91m8%3D" width="100" height="91">
-          <img src="https://cdn.qwiklabs.com/wz%2BwywwqBHujHzimkzAuQb%2BAr%2FGysxgns5DlluSP6p8%3D" width="100" height="91">
-          <img src="https://cdn.qwiklabs.com/v%2BcptcH9kdIuziU8KHnK7NYndGWS5MA%2B5TgtFL5lmd4%3D" width="100" height="91">
-       <div align="center">
-          <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" hspace="10">
-          <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100" hspace="10">
-          <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="100" hspace="10">
-       </div>
-      <div align="center">
-          <img src="https://hermes.dio.me/certificates/cover/QELEKZXF.jpg" width="100" hspace="10">
-          <img src="https://hermes.dio.me/certificates/cover/HYSYM1NY.jpg" width="100" hspace="10">
-          <img src="https://hermes.dio.me/certificates/cover/WNKPPF4C.jpg" width="100" hspace="10">
-         <img src="https://hermes.dio.me/certificates/cover/1PJD3V6D.jpg" width="100" hspace="10">
-         <img src="https://hermes.dio.me/certificates/cover/OQIFUDQ0.jpg" width="100" hspace="10">
-         <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
-      </div>
-      <div align="center">
-         <img src="https://images.credly.com/images/41e4ea80-7650-41a6-b741-b5f4a7700925/blob" width="100" hspace="10">
-         <img src="https://images.credly.com/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" width="100" hspace="10">
-      </div>
-      <div align="center">
-         <img src="https://images.credly.com/images/d5fb69a6-122b-4345-a046-a6ddab8896e8/blob" width="100" hspace="10">
-         <img src="https://images.credly.com/images/2e57045b-6d0e-4d03-b33e-80d8ab70c1f6/blob" width="100" hspace="10">
-         <img src="https://images.credly.com/images/47078d91-9a87-4283-8c89-e45f2186a95b/image.png" width="100" hspace="10">
-       </div>
+        <img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100">
+        <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100">
+        <img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="100">
+    </div>
+    <div align="center">
+        <img src="https://images.credly.com/size/680x680/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="100" height="91">
+        <img src="https://images.credly.com/size/340x340/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="100" height="91">
+        <img src="https://images.credly.com/size/340x340/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="100" height="91">
+        <img src="https://images.credly.com/size/340x340/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="100" height="91">
+        <img src="https://cdn.qwiklabs.com/HdmJQ4UhnCwr2zBUYBYJuQspfHMm7qNY2W%2FM0GNE16E%3D" width="100">
+        <img src="https://cdn.qwiklabs.com/Q4rVlxJ0wQuMfHZqcVJ4syEhU3G51bvU%2BxpjlqO91m8%3D" width="100" height="91">
+        <img src="https://cdn.qwiklabs.com/wz%2BwywwqBHujHzimkzAuQb%2BAr%2FGysxgns5DlluSP6p8%3D" width="100" height="91">
+        <img src="https://cdn.qwiklabs.com/v%2BcptcH9kdIuziU8KHnK7NYndGWS5MA%2B5TgtFL5lmd4%3D" width="100" height="91">
+    </div>
+    <div align="center">
+        <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" hspace="10">
+        <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100" hspace="10">
+        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="100" hspace="10">
+    </div>
+    <div align="center">
+        <img src="https://hermes.dio.me/certificates/cover/QELEKZXF.jpg" width="100" hspace="10">
+        <img src="https://hermes.dio.me/certificates/cover/HYSYM1NY.jpg" width="100" hspace="10">
+        <img src="https://hermes.dio.me/certificates/cover/WNKPPF4C.jpg" width="100" hspace="10">
+        <img src="https://hermes.dio.me/certificates/cover/1PJD3V6D.jpg" width="100" hspace="10">
+        <img src="https://hermes.dio.me/certificates/cover/OQIFUDQ0.jpg" width="100" hspace="10">
+        <img src="https://hermes.dio.me/certificates/cover/91SLTZUJ.jpg" width="100" hspace="10">
+    </div>
+    <div align="center">
+        <img src="https://images.credly.com/images/41e4ea80-7650-41a6-b741-b5f4a7700925/blob" width="100" hspace="10">
+        <img src="https://images.credly.com/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" width="100" hspace="10">
+    </div>
+    <div align="center">
+        <img src="https://images.credly.com/images/d5fb69a6-122b-4345-a046-a6ddab8896e8/blob" width="100" hspace="10">
+        <img src="https://images.credly.com/images/2e57045b-6d0e-4d03-b33e-80d8ab70c1f6/blob" width="100" hspace="10">
+        <img src="https://images.credly.com/images/47078d91-9a87-4283-8c89-e45f2186a95b/image.png" width="100" hspace="10">
     </div>
 </div>
+
 <br><br>
 
 # ACHIEVEMENTS:
