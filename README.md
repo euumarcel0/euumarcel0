@@ -11,23 +11,44 @@
     <h2>SKILLS</h2>
     <br>
     <div>
+        <img src="https://skillicons.dev/icons?i=aws">
         <img src="https://skillicons.dev/icons?i=azure">
+        <img src="https://skillicons.dev/icons?i=bash">
+        <img src="https://skillicons.dev/icons?i=css">
+        <img src="https://skillicons.dev/icons?i=debian">
         <img src="https://skillicons.dev/icons?i=docker">
+        <img src="https://skillicons.dev/icons?i=dynamodb">
+        <img src="https://skillicons.dev/icons?i=flask">
+        <img src="https://skillicons.dev/icons?i=gcp">
+        <img src="https://skillicons.dev/icons?i=git">
         <img src="https://skillicons.dev/icons?i=github">
+        <img src="https://skillicons.dev/icons?i=gitlab">
+        <img src="https://skillicons.dev/icons?i=grafana">
+        <img src="https://skillicons.dev/icons?i=html">
+        <img src="https://skillicons.dev/icons?i=java">
+        <img src="https://skillicons.dev/icons?i=js">
         <img src="https://skillicons.dev/icons?i=kali">
+        <img src="https://skillicons.dev/icons?i=kubernetes">
         <img src="https://skillicons.dev/icons?i=linux">
+        <img src="https://skillicons.dev/icons?i=mysql">
+        <img src="https://skillicons.dev/icons?i=mongodb">
+        <img src="https://skillicons.dev/icons?i=nginx">
+        <img src="https://skillicons.dev/icons?i=nodejs">
+        <img src="https://skillicons.dev/icons?i=npm">
+        <img src="https://skillicons.dev/icons?i=postgres">
         <img src="https://skillicons.dev/icons?i=postman">
         <img src="https://skillicons.dev/icons?i=powershell">
         <img src="https://skillicons.dev/icons?i=py">
+        <img src="https://skillicons.dev/icons?i=react">
+        <img src="https://skillicons.dev/icons?i=redhat">
+        <img src="https://skillicons.dev/icons?i=stackoverflow">
+        <img src="https://skillicons.dev/icons?i=supabase">
         <img src="https://skillicons.dev/icons?i=terraform">
         <img src="https://skillicons.dev/icons?i=ubuntu">
+        <img src="https://skillicons.dev/icons?i=visualstudio">
         <img src="https://skillicons.dev/icons?i=vscode">
         <img src="https://skillicons.dev/icons?i=windows">
-        <img src="https://skillicons.dev/icons?i=git">
-        <img src="https://skillicons.dev/icons?i=nginx">
-        <img src="https://skillicons.dev/icons?i=flask">
-        <img src="https://skillicons.dev/icons?i=python">
-        <img src="https://skillicons.dev/icons?i=ansible">
+        <img src="https://skillicons.dev/icons?i=wordpress">
     </div>
     <br>
     <h2>CERTIFICATES</h2>
