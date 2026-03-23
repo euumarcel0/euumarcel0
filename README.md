@@ -72,9 +72,9 @@
         <img src="https://cdn.qwiklabs.com/v%2BcptcH9kdIuziU8KHnK7NYndGWS5MA%2B5TgtFL5lmd4%3D" width="100" height="91">
     </div>
     <div align="center">
-        <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" hspace="10">
+        <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="100" hspace="10">
         <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100" hspace="10">
-        <img src="https://images.credly.com/size/340x340/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png" width="100" hspace="10">
+        <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="100" hspace="10">
     </div>
     <div align="center">
         <img src="https://hermes.dio.me/certificates/cover/QELEKZXF.jpg" width="100" hspace="10">
