@@ -24,6 +24,7 @@
         <img src="https://skillicons.dev/icons?i=flask">
         <img src="https://skillicons.dev/icons?i=python">
         <img src="https://skillicons.dev/icons?i=ansible">
+       <img src="https://skillicons.dev/icons?i=NetApp">
         <div align="center">
         </div>
     </div>
